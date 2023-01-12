@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sachinkumar95121](https://medium.com/@sachinkumar95121)
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP**
 
 - 📫 How to reach me **sachinkumar95121@gmail.com**
 
